@@ -31,5 +31,7 @@ Visualization Tools:
 The dataset contains customer attributes such as:
 
 Demographics: Income, Age, Children, etc.
+
 Spending: MntWines, MntMeatProducts, etc.
+
 Campaign Participation: AcceptedCmp1, AcceptedCmp2, etc.
