@@ -35,3 +35,13 @@ Demographics: Income, Age, Children, etc.
 Spending: MntWines, MntMeatProducts, etc.
 
 Campaign Participation: AcceptedCmp1, AcceptedCmp2, etc.
+
+## Results
+* PCA with K-Means:
+**Optimal clusters: 4
+** Explained variance: 58% with 2 components.
+* NMF with GMM:
+** Optimal clusters: 3
+I** nterpretable components for spending, demographics, and campaign engagement.
+
+Detailed visualizations and cluster profiles included in the notebook.
