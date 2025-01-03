@@ -14,7 +14,9 @@ NMF with GMM: For interpretable latent factors and probabilistic clustering.
 Dimensionality Reduction:
 * PCA for variance maximization.
 * NMF for interpretable component extraction.
+
 Clustering Algorithms:
+
 * K-Means for hard clustering.
 * GMM for probabilistic clustering.
 Visualization Tools:
