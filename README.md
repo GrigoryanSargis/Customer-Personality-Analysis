@@ -42,6 +42,6 @@ Campaign Participation: AcceptedCmp1, AcceptedCmp2, etc.
   * Explained variance: 58% with 2 components.
 * NMF with GMM:
   * Optimal clusters: 3
-  * nterpretable components for spending, demographics, and campaign engagement.
+  * Interpretable components for spending, demographics, and campaign engagement.
 
 Detailed visualizations and cluster profiles included in the notebook.
