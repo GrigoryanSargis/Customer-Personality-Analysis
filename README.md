@@ -38,6 +38,7 @@ Campaign Participation: AcceptedCmp1, AcceptedCmp2, etc.
 
 ## Results
 * PCA with K-Means:
+* * ds
  * Optimal clusters: 4
  * Explained variance: 58% with 2 components.
 * NMF with GMM:
