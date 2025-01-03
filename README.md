@@ -15,10 +15,10 @@ Dimensionality Reduction:
 * PCA for variance maximization.
 * NMF for interpretable component extraction.
 Clustering Algorithms:
-K-Means for hard clustering.
-GMM for probabilistic clustering.
+* K-Means for hard clustering.
+* GMM for probabilistic clustering.
 Visualization Tools:
-Explained variance plots.
-Heatmaps of NMF components.
-Cluster distribution visualizations.
+* Explained variance plots.
+* Heatmaps of NMF components.
+* Cluster distribution visualizations.
 
